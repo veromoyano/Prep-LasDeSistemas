@@ -1,4 +1,3 @@
-<img  src='../../logo.png' height='70px'>
 <table width="100%" style='table-layout:fixed;'>
   <tr>
     <td>
@@ -12,8 +11,6 @@
 </table>
 
 # Git - Lección 1
-
-<iframe src="https://player.vimeo.com/video/423898676" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Version Control System
 
