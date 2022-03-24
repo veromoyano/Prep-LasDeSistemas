@@ -4,7 +4,7 @@
       <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=02-JS-I">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
+        Todo ok. Muy completa. Pero la manera de ejecutar los test es distinta a la que aparece en los apuntes. No va el .test.js final. 
       </a>
     </td>
   </tr>
